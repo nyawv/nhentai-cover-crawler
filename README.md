@@ -1,2 +1,3 @@
-# nhentai-cover-crawler
-一个nhentai封面爬虫
+# 一个nhentai封面爬虫
+安装好库可直接运行
+修改最下方的信息即可
